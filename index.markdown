@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![img](mt1.png)
+![img](/sunsistema/mt1.png)
